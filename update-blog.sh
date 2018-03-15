@@ -1,0 +1,10 @@
+echo 开始更新博客...
+echo 切换到/home/wll/projects/blog目录
+cd /home/wll/projects/blog
+echo 切换成功！
+echo 开始更新github个人博客...
+git pull
+echo code下载完毕！
+echo 开始更新nginx静态页面
+hexo g
+echo 更新成功!
