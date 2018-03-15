@@ -103,7 +103,7 @@ ALTER TABLE Persons
 ADD CONSTRAINT uc_PersonID UNIQUE (Id_P,LastName)
 ```
 
-### 撤销 UNIQUE 约束
+- 撤销 UNIQUE 约束
 
 ###### MySQL
 
