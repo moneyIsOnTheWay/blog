@@ -33,12 +33,12 @@ date: 2018-03-15 12:02:39
 > 协助辅导员管理班级的各项工作，包括考勤、纪律、活动、学分统计，在我统计班级期末综 测的时候，将统计的表格直接改成了模板，公式列出，方便下次统计，大大提高了算综测的 效率
 ### 做过的项目
 - 云服务器后台监控
-  ## 项目地址: https://github.com/wanglinli/centosafe
-  ## 主要功能: 对自己买的腾讯云服务器进行后台监控，包括内存、磁盘、进程以及系统日志。
-  ## 负责的模块: 个人独立完成
+   -  项目地址: https://github.com/wanglinli/centosafe
+   -  主要功能: 对自己买的腾讯云服务器进行后台监控，包括内存、磁盘、进程以及系统日志。
+   -  负责的模块: 个人独立完成
 - 个人博客
-  ## 项目地址: https://github.com/wanglinli/blog
-  ## 我做的: `Docker` 部署 `nginx` 服务去管理 `hexo` 生成的静态页面文件，这个项目虽然没用到数据库，但是我还是用 `Docker` 部署了一个 `MySQL` 数据库,并将 `PhpMyAdmin` 服务用 `Docker` 跑起,关联 `MySQL` 的时候遇到了个问题，就是 `MySQL` 的 `host` 的问题，用 `Docker` 跑的 `MySQL` 和 `PhpMyAdmin` 的服务时，在启动 `PhpMyAdmin` 容器时所传参数得将 `host` 改成 `mysql` ，后来才发现这是 `Docker` 容器网络的问题。
+   -  项目地址: https://github.com/wanglinli/blog
+   -  我做的: `Docker` 部署 `nginx` 服务去管理 `hexo` 生成的静态页面文件，这个项目虽然没用到数据库，但是我还是用 `Docker` 部署了一个 `MySQL` 数据库,并将 `PhpMyAdmin` 服务用 `Docker` 跑起,关联 `MySQL` 的时候遇到了个问题，就是 `MySQL` 的 `host` 的问题，用 `Docker` 跑的 `MySQL` 和 `PhpMyAdmin` 的服务时，在启动 `PhpMyAdmin` 容器时所传参数得将 `host` 改成 `mysql` ，后来才发现这是 `Docker` 容器网络的问题。
 ### 获奖
 - 2017年重庆工商大学互联网+项目”路演赛一等奖 
 - 2017年重庆市第三届“互联网+”大学生创新创业大赛重庆赛区铜奖
